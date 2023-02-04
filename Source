@@ -1,0 +1,9 @@
+-- PREMIUM 
+-- psx
+if game.PlaceId == 6284583030 or 10321372166 or 7722306047 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/PSX-MultiHub/main/Source'))()
+end
+-- doors
+if game.PlaceId == 6516141723 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/DOORS-MultiHub/main/Source'))()
+end
