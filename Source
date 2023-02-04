@@ -7,3 +7,7 @@ end
 if game.PlaceId == 6516141723 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/DOORS-MultiHub/main/Source'))()
 end
+-- bloxburg
+if game.PlaceId == 185655149 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/BloxBurg-MultiHubPremium/main/Source'))()
+end
